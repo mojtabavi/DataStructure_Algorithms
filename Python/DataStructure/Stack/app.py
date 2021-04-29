@@ -18,9 +18,10 @@ class ArrayStack:
             return 'Stack is empty.'
         return self._data.pop()
 
-s = ArrayStack()
-s.push(2)
-s.push(3)
-s.push(4)
-print(s.pop())
-print(s.pop())
+
+# s = ArrayStack()
+# s.push(2)
+# s.push(3)
+# s.push(4)
+# print(s.pop())
+# print(s.pop())
